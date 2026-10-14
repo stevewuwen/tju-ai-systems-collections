@@ -34,7 +34,7 @@
 | 18 | [RollArt: Disaggregated Multi-Task Agentic RL Training at Scale](OSDI2026/OSDI26-18_RollArt_Disaggregated_Multi_Task_Agentic_RL_Training_at_Scale.pdf) | 训练与强化学习 |
 | 19 | [Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](OSDI2026/OSDI26-19_Seer_Online_Context_Learning_for_Fast_Synchronous_LLM_Reinforcement_Learning.pdf) | 训练与强化学习 |
 | 20 | [Achieving Cloud-Grade SLOs for Local Mixture-of-Experts Inference through CPU–GPU Hybrid Design](OSDI2026/OSDI26-20_Achieving_Cloud_Grade_SLOs_for_Local_Mixture_of_Experts_Inference_through_CPU_GPU_Hybrid_Design.pdf) | 推理服务与调度 |
-| 21 | [UEP: Portable Expert-Parallel Communication](OSDI2026/OSDI26-21_UEP_Portable_Expert_Parallel_Communication.pdf) | 编译、算子与通信 |
+| 21 | [UCCL-EP: Portable Expert-Parallel Communication（arXiv v2）](OSDI2026/OSDI26-21_UCCL_EP_Portable_Expert_Parallel_Communication_arXiv.pdf) · [会议正式版：UEP](OSDI2026/OSDI26-21_UEP_Portable_Expert_Parallel_Communication.pdf) | 编译、算子与通信 |
 | 22 | [BatchGen: An Architecture for Scalable and Efficient Batch Inference](OSDI2026/OSDI26-22_BatchGen_An_Architecture_for_Scalable_and_Efficient_Batch_Inference.pdf) | 推理服务与调度 |
 | 23 | [UCCL-Tran: An Extensible Software Transport Layer for GPU Networking](OSDI2026/OSDI26-23_UCCL_Tran_An_Extensible_Software_Transport_Layer_for_GPU_Networking.pdf) | 编译、算子与通信 |
 | 24 | [Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training](OSDI2026/OSDI26-24_Kareus_Joint_Reduction_of_Dynamic_and_Static_Energy_in_Large_Model_Training.pdf) | 资源管理与基础设施 |
